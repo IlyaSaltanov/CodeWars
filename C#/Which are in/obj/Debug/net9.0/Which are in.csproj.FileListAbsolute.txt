@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/bin/Debug/net9.0/Which are in
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/bin/Debug/net9.0/Which are in.deps.json
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/bin/Debug/net9.0/Which are in.runtimeconfig.json
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/bin/Debug/net9.0/Which are in.dll
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/bin/Debug/net9.0/Which are in.pdb
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.sourcelink.json
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.dll
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/refint/Which are in.dll
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.pdb
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/Which are in.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/CodeWars/C#/Which are in/obj/Debug/net9.0/ref/Which are in.dll
