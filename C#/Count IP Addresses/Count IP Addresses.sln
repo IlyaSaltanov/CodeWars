@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count IP Addresses", "Count IP Addresses.csproj", "{9A89B4AE-7150-AA8D-55F2-F8EF86AA9E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A89B4AE-7150-AA8D-55F2-F8EF86AA9E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A89B4AE-7150-AA8D-55F2-F8EF86AA9E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A89B4AE-7150-AA8D-55F2-F8EF86AA9E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A89B4AE-7150-AA8D-55F2-F8EF86AA9E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EB3EB7D-33BE-4BE6-ABD1-3FC136ADB91E}
+	EndGlobalSection
+EndGlobal

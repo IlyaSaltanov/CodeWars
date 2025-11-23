@@ -1,0 +1,15 @@
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/bin/Debug/net9.0/ForTests
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/bin/Debug/net9.0/ForTests.deps.json
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/bin/Debug/net9.0/ForTests.runtimeconfig.json
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/bin/Debug/net9.0/ForTests.dll
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/bin/Debug/net9.0/ForTests.pdb
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.AssemblyInfoInputs.cache
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.AssemblyInfo.cs
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.csproj.CoreCompileInputs.cache
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.sourcelink.json
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.dll
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/refint/ForTests.dll
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.pdb
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ForTests.genruntimeconfig.cache
+/Users/ilyasaltanov/projects/CodeWars/C#/ForTests/obj/Debug/net9.0/ref/ForTests.dll
